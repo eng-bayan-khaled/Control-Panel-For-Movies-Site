@@ -1,6 +1,8 @@
 <p align="center">
-    <img src="https://raw.githubusercontent.com/eng-bayan-kahed/control_panel_for_movies_site/main/public/AdminLTE/SharedScreenshot.jpg" width="800"></p>
-    <img src="https://raw.githubusercontent.com/eng-bayan-kahed/control_panel_for_movies_site/main/public/AdminLTE/22.jpg" width="800"></p>
+<img src="https://raw.githubusercontent.com/eng-bayan-kahed/control_panel_for_movies_site/main/public/AdminLTE/22.jpg" width="800">
+</p>
+<p align="center">
+<img src="https://raw.githubusercontent.com/eng-bayan-kahed/control_panel_for_movies_site/main/public/AdminLTE/SharedScreenshot.jpg" width="800">
 </p>
 ## About Control Panel For Movies Site
 
