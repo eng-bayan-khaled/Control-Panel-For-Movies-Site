@@ -17,4 +17,4 @@ Project is accessible, powerful, and provides tools required for large, robust a
 
 
 ## Link of preview for project on youtube
-https://www.youtube.com/watch?v=4S9PNjOz-sM
+<iframe width="1349" height="480" src="https://www.youtube.com/embed/4S9PNjOz-sM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
