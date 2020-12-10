@@ -4,14 +4,15 @@
 <p align="center">
 <img src="https://raw.githubusercontent.com/eng-bayan-kahed/control_panel_for_movies_site/main/public/AdminLTE/SharedScreenshot.jpg" width="800">
 </p>
-## About Control Panel For Movies Site
 
-
-- Laravel has blade template engine to create dynamic layouts and increase compiling tasks.
-- Reuse code without any hassle.
-- Robust background job processing.
-- Multiple back-ends for session and cache.
-- Simple, fast routing engine.
+## Points i used:
+- Routing system
+- Controllers
+- Blade Engine
+- Relational Tables
+- Eloquent
+- Multiauth
+- Autheriztion
 
 Project is accessible, powerful, and provides tools required for large, robust applications.
 
